@@ -1,5 +1,5 @@
 ## Time Series Module
-This module is part of the NOWCAST proyect by [ESO](https://www.eso.org) that aims to do short-term-forecast of the [seeing](https://en.wikipedia.org/wiki/Astronomical_seeing) parameter in order to improve astronomical observations. This module takes the cdv data and outputs a binary pandas dataframe file that can be used by the visualization app.
+This module is part of the [NOWCAST](https://github.com/tomasrojasc/NOWCAST) proyect by [ESO](https://www.eso.org) that aims to do short-term-forecast of the [seeing](https://en.wikipedia.org/wiki/Astronomical_seeing) parameter in order to improve astronomical observations. This module takes the cdv data and outputs a binary pandas dataframe file that can be used by the visualization app.
 
 
 ## How it works
